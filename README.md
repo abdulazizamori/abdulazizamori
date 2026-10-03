@@ -22,7 +22,7 @@
 
 ### 💼 Experience
 
-**Alfiya United Company** — Mobile & Web Developer · Backend · AI Integrations · *Jeddah* · `May 2026 – Present`
+**Alfiya United Company** — Mobile & Web Developer · Backend · AI Engineer · *Jeddah* · `May 2026 – Present`
 - Building **Al Hdeed**, a steel & construction-materials marketplace for the Saudi market — mobile, web, admin and provider apps.
 - Shipped an **AI voice-ordering** feature and an **AI cost estimator** that prices projects from architectural & structural drawings.
 - Integrated **Moyasar** payments and built the REST APIs behind the mobile and web clients.
