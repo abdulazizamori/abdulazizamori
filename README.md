@@ -13,7 +13,7 @@
 
 ### 🧠 About me
 
-- 📱 **10+ live apps** on the App Store & Google Play — marketplaces, ride booking, education, food delivery and retail.
+- 📱 **15+ live apps** on the App Store & Google Play — marketplaces, ride booking, education, food delivery and retail.
 - 🌐 Full product stack: **Flutter** mobile apps, **Next.js / Nuxt.js** web apps, **Laravel / Node.js** backends and admin dashboards.
 - 🤖 **AI engineer by degree** (B.Sc. Artificial Intelligence, Nile University) — LLMs, RAG, NLP and deep learning in production features.
 - 🏗️ Clean Architecture, SOLID, MVVM, CI/CD with GitHub Actions, and full store-release ownership.
